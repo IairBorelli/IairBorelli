@@ -7,4 +7,4 @@ Sobre mí
 📚 Me encanta aprender constantemente y estoy abierto a sugerencias y consejos sobre cómo mejorar mis proyectos y habilidades de programación.
 
 Contacto
-Puedes encontrarme en Twitter. Si tienes alguna pregunta sobre mis proyectos o quieres colaborar en algo, no dudes en ponerte en contacto conmigo.
+Puedes encontrarme en [Twitter](https://x.com/BorelliIair). Si tienes alguna pregunta sobre mis proyectos o quieres colaborar en algo, no dudes en ponerte en contacto conmigo.
