@@ -8,5 +8,3 @@ Sobre mí
 
 Contacto
 Puedes encontrarme en Twitter. Si tienes alguna pregunta sobre mis proyectos o quieres colaborar en algo, no dudes en ponerte en contacto conmigo.
-
-¡Gracias por visitar mi perfil!
