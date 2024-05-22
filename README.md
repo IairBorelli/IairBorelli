@@ -1,8 +1,8 @@
 Soy un entusiasta de la programación autodidacta apasionado por explorar el mundo del desarrollo web y la programación. Este repositorio es mi espacio para compartir proyectos, explorar nuevas ideas y aprender de la comunidad.
 
 Sobre mí
-🌱 Actualmente estoy aprendiendo CSS, HTML y Python, centrándome en mejorar mis habilidades en el desarrollo web y la programación de aplicaciones.
-💻 Disfruto resolviendo desafíos de codificación, jugando diversos juegos, leyendo y expandiendo mis conocimientos.
+🌱 Actualmente estoy aprendiendo Python, centrándome en mejorar mis habilidades en el desarrollo y la programación de aplicaciones.
+💻 Disfruto jugando diversos juegos, leyendo y expandiendo mis conocimientos.
 🔭 Estoy buscando colaborar en proyectos interesantes donde pueda aplicar mis conocimientos y aprender de otros desarrolladores.
 📚 Me encanta aprender constantemente y estoy abierto a sugerencias y consejos sobre cómo mejorar mis proyectos y habilidades de programación.
 
